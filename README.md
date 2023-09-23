@@ -1,7 +1,8 @@
 # Internship
  Virtual Internship With https://www.vinternship.org/intern/
+ 
 ### About Student :
-Intern ID - i23b0034s20 _ Md Aminul Islam Sayem
-
-### GitHub Repository :
-https://github.com/sayem1911826042/Virtual_Internship
+* <b>Intern ID</b> - i23b0034s20 
+* <b>Name:</b> Md Aminul Islam Sayem
+* <b>University:</b> North South University 
+* <b>GitHub Repository :</b> https://github.com/sayem1911826042/Virtual_Internship
